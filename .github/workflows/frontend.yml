@@ -9,7 +9,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./frontend
+        working-directory: ./GoExpertsFrontend
 
     steps:
       - uses: actions/checkout@v4
